@@ -5,6 +5,7 @@ __pycache__/
 
 *.egg-info/
 *.egg
+*.ipynb_checkpoints/
 
 .vscode
 training_checkpoints/
