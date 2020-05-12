@@ -1,0 +1,2 @@
+MIT:
+http://introtodeeplearning.com/
